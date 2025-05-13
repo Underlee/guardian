@@ -1,0 +1,21 @@
+{
+  "@@locale": "pt",
+  "login": "Login",
+  "email": "Email",
+  "password": "Senha",
+  "enter": "Entrar",
+  "forgotPassword": "Esqueceu a senha?",
+  "userTypeMorador": "Morador",
+  "userTypePortaria": "Portaria",
+  "userTypeAdminist": "Administ",
+  "records": "Registros",
+  "newVisit": "Nova Visita",
+  "visitorName": "Nome do Visitante",
+  "date": "Data",
+  "time": "Hora",
+  "confirm": "Confirmar",
+  "cancel": "Cancelar",
+  "details": "Detalhes",
+  "edit": "Editar",
+  "delete": "Excluir"
+}

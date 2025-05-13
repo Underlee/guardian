@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "enter": "Enter",
+  "forgotPassword": "Forgot password?",
+  "userTypeMorador": "Resident",
+  "userTypePortaria": "Gatehouse",
+  "userTypeAdminist": "Admin",
+  "records": "Records",
+  "newVisit": "New Visit",
+  "visitorName": "Visitor Name",
+  "date": "Date",
+  "time": "Time",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "details": "Details",
+  "edit": "Edit",
+  "delete": "Delete"
+}
